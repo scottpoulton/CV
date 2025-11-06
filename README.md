@@ -2,11 +2,11 @@
 
 This repository contains the LaTeX source code and compiled PDF for my Curriculum Vitae.
 
-## 📥 Download
+## Download
 
-[**Click here to view/download my CV.pdf**](CV.pdf)
+[**CV.pdf**](CV.pdf)
 
-## 🛠️ Compiling
+## Compiling
 
 ### Easy Method (Recommended)
 
@@ -26,3 +26,4 @@ An easy, cross-platform way to compile this code is to use **[Overleaf](https://
 ### Local Compilation
 
 If you wish to compile this locally, you **must** use the **XeLaTeX** or **LuaLaTeX** compiler. This is required because the project uses the `fontspec` package and custom `.otf` fonts.
+
