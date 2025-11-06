@@ -4,7 +4,7 @@ This repository contains the LaTeX source code and compiled PDF for my Curriculu
 
 ## 📥 Download
 
-[**Click here to view and download the latest CV.pdf**](CV.pdf)
+[**Click here to view/download my CV.pdf**](CV.pdf)
 
 ## 🛠️ Compiling
 
