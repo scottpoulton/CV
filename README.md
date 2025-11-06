@@ -1,0 +1,28 @@
+# Scott Poulton's CV
+
+This repository contains the LaTeX source code and compiled PDF for my Curriculum Vitae.
+
+## 📥 Download
+
+[**Click here to view and download the latest CV.pdf**](CV.pdf)
+
+## 🛠️ Compiling
+
+### Easy Method (Recommended)
+
+An easy, cross-platform way to compile this code is to use **[Overleaf](https://www.overleaf.com)**, an online LaTeX editor.
+
+1.  Create a new "Blank Project" on Overleaf.
+2.  Click the "Upload" button.
+3.  Upload all the files from this repository:
+    * `CV.tex`
+    * `Fontin.otf`
+    * `Fontin-Bold.otf`
+    * `Fontin-Italic.otf`
+    * `Fontin-SmallCaps.otf`
+4.  In the Overleaf "Menu", set the "Compiler" to **XeLaTeX**.
+5.  Click "Recompile" and it will generate the PDF.
+
+### Local Compilation
+
+If you wish to compile this locally, you **must** use the **XeLaTeX** or **LuaLaTeX** compiler. This is required because the project uses the `fontspec` package and custom `.otf` fonts.
