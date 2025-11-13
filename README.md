@@ -9,9 +9,7 @@ This repository contains the LaTeX source code and compiled PDF for my Curriculu
 ## Compiling
 
 ### Easy Method (Recommended)
-
-An easy, cross-platform way to compile this code is to use **[Overleaf](https://www.overleaf.com)**, an online LaTeX editor.
-
+
 1.  Create a new "Blank Project" on Overleaf.
 2.  Click the "Upload" button.
 3.  Upload all the files from this repository:
