@@ -1,6 +1,6 @@
-# Scott Poulton's CV
+# CV
 
-This repository contains the LaTeX source code and compiled PDF for my Curriculum Vitae.
+This repository contains the LaTeX source code and compiled PDF for my CV.
 
 ## Download
 
